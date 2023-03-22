@@ -1,0 +1,9 @@
+DOM(Document Object Model)
+•	DOM is used to represent the content of an XML or HTML document as a tree structure.
+•	DOM is a programming interface or an API and this API can be used with any programming language.
+•	Most commonly, it is used with JavaScript.
+•	DOM can be used to easily read, access and update the contents of the document.
+•	DOM does the tree conversion internally in the memory.
+•	D in DOM means file like HTML and XML.
+•	O in DOM means tags and the elements of the file.
+•	M in DOM means layout and structure.
